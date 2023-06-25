@@ -1,2 +1,3 @@
 com.hongvengers.edu.config.autoconfig.TomcatWebServerConfig
+com.hongvengers.edu.config.autoconfig.JettyWebServerConfig
 com.hongvengers.edu.config.autoconfig.DispatcherServletConfig
